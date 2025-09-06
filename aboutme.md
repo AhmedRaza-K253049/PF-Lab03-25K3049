@@ -1,3 +1,3 @@
-Name: Muhammad Ahmed Raza
-Degree Program: BS Software Engineering (BSSE)
+Name: Muhammad Ahmed Raza\
+Degree Program: BS Software Engineering (BSSE)\
 Hobby: Watching movies
